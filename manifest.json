@@ -1,0 +1,10 @@
+{
+  "name": "Close Other Tabs",
+  "description": "Close Other Tabs from Rigth click menu",
+  "version": "0.6",
+  "permissions": ["contextMenus", "tabs"],
+  "background": {
+    "scripts": ["main.js"]
+  },
+  "manifest_version": 2
+}
